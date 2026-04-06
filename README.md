@@ -7,7 +7,6 @@ Un simulateur de chute de sable interactif et performant, développé en **Rust*
 * Simulation fluide et dynamique de particules (sable, etc.).
 * Hautes performances grâce à la gestion mémoire de Rust.
 * **[À compléter]** Interactions avec d'autres éléments (eau, murs, feu).
-* **[À compléter]** Moteur graphique utilisé (ex: Bevy, Macroquad, SDL2...).
 
 ## 🛠️ Prérequis
 
