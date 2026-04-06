@@ -18,3 +18,4 @@ Assurez-vous d'avoir installé [Rust et Cargo](https://www.rust-lang.org/tools/i
    ```bash
    git clone [https://github.com/DiegoDelvig/sand_sim.git](https://github.com/DiegoDelvig/sand_sim.git)
    cd sand_sim
+   cargo run
